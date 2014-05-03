@@ -7,6 +7,8 @@ I came across this old highschool project from 2011 while cleaning out a backup 
 
 To try it out, just run:
 > javac LifeSimulation
+
 > java LifeSimulation
 
 Disclaimer: Feelings of nostalgia not guaranteed.
+
